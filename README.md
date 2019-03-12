@@ -2,7 +2,7 @@
 
 > Inspiring and Empowering (virtual) mentors
 
-![Photo by @asthetik](https://source.unsplash.com/Uzf1l3RyjNc/640x480)
+![Photo by @johnschno](https://source.unsplash.com/2FPjlAyMQTA/640x480)
 
 <ul>
 <li><a href="https://twitter.com/amix3k">Amir Salihefendić</a>, Founder of <a href="https://doist.com">@doist</a></li>
